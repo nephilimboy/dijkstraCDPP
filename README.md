@@ -66,7 +66,8 @@ dijkstraCDPP
 - Cd++
     - http://cell-devs.sce.carleton.ca/mediawiki/index.php/Main_Page
 
-
+### Maze Maker WEB GUI
+- https://nephilimboy.github.io/MazeMaker/ 
 ### YouTube Videos
 - https://youtu.be/nZAGyJ9xwyk
 - https://youtu.be/Aux7o-MXFU8
