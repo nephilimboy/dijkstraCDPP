@@ -67,7 +67,7 @@ dijkstraCDPP
     - http://cell-devs.sce.carleton.ca/mediawiki/index.php/Main_Page
 
 
-### YouTube Video
+### YouTube Videos
 - https://youtu.be/nZAGyJ9xwyk
 - https://youtu.be/Aux7o-MXFU8
 
