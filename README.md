@@ -55,8 +55,8 @@ dijkstraCDPP
 ├── dijkstraMA.ma
 ├── dijkstraMA.madesigner
 ├── dijkstraMA.maml
-├── dijkstraMADRW.drw
-├── dijkstraMALOG.log
+├── dijkstra.drw
+├── dijkstra.log
 ├── notes1.txt
 └── README.md
 ```
